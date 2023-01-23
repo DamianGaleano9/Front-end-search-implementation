@@ -18,8 +18,10 @@ html {
     display: grid;
     grid-template-rows: repeat(auto-fit, minmax(100, 1fr));
     grid-template-columns: 1fr 1fr 1fr;
+}
 
 
+.container-homepage {
     margin-top: 5em;
     justify-items: center;
     height: 100vh;
