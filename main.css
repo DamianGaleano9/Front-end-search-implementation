@@ -155,6 +155,11 @@ html {
     font-size: 1.8rem;
 }
 
+.result-post-title:hover a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 2rem;
+}
 
 
 .result-post-links-wrapper {
